@@ -1,3 +1,5 @@
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:skyofaria3856@gmail.com)
+
 # Hi there, I'm SWEETCIDE 😉
 ### Who Am I
 - 🌱 I’m currently learning Statistics, Data Analysis and Visualization
