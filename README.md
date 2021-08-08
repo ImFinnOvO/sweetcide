@@ -1,7 +1,7 @@
 # Hi there, I'm SWEETCIDE 😉
 ### Who Am I
-- 🌱 I’m currently learning Statistics, Algorithm
-- 🥇 I majored in Statistics
+- 🌱 I’m currently learning Statistics, Data Analysis and Visualization
+- 🥇 My major is Statistics
 - 🚅 My hometown is Hwaseong, Gyeonggi-do in Korea
 
 ### What I Like
