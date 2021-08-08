@@ -4,7 +4,7 @@
 ### Who Am I
 - 🌱 I’m currently learning Statistics, Data Analysis and Visualization
 - 🥇 My major is Statistics
-- 🚅 My hometown is Hwaseong, Gyeonggi-do in Korea
+- 🚅 I live in Dongtan. Hwaseong, in Korea
 
 ### What I Like
 - :musical_note: Music
