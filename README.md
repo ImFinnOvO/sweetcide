@@ -5,8 +5,7 @@
 - 🚅 I live in Hwaseong, in Korea
 
 ### What I Like
-- 🎵 Music
-- 🔵 Game
+- 🎵 Musi
 - 🍕 Pizza
 
 ### One Day One Commit
